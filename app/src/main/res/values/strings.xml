@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InovaAutoCenter</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="hint_cpf">CPF</string>
+    <string name="hint_pwd">SENHA</string>
+    <string name="login_button">Entrar</string>
+    <string name="mensagem_erro_login">Usuário e/ou senha inválida</string>
+</resources>
